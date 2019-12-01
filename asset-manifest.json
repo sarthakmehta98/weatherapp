@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weatherapp/static/css/main.445a1062.chunk.css",
+    "main.js": "/weatherapp/static/js/main.4ea0dba0.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.4ea0dba0.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.d998e806.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.d998e806.js.map",
+    "static/js/2.9d219633.chunk.js": "/weatherapp/static/js/2.9d219633.chunk.js",
+    "static/js/2.9d219633.chunk.js.map": "/weatherapp/static/js/2.9d219633.chunk.js.map",
+    "index.html": "/weatherapp/index.html",
+    "precache-manifest.01e81480036aae07dff7d5c5e2c99786.js": "/weatherapp/precache-manifest.01e81480036aae07dff7d5c5e2c99786.js",
+    "service-worker.js": "/weatherapp/service-worker.js",
+    "static/css/main.445a1062.chunk.css.map": "/weatherapp/static/css/main.445a1062.chunk.css.map",
+    "static/media/Lightning.mp4": "/weatherapp/static/media/Lightning.4a1a807b.mp4",
+    "static/media/clearsky.mov": "/weatherapp/static/media/clearsky.fe2ddaa2.mov",
+    "static/media/clouds.mp4": "/weatherapp/static/media/clouds.b84f44dc.mp4",
+    "static/media/haze.mp4": "/weatherapp/static/media/haze.74ee9c99.mp4",
+    "static/media/mist.mp4": "/weatherapp/static/media/mist.878d4b50.mp4",
+    "static/media/rainy.mp4": "/weatherapp/static/media/rainy.8647f42c.mp4",
+    "static/media/snowy.mp4": "/weatherapp/static/media/snowy.9797e406.mp4"
+  }
+}
