@@ -2,11 +2,11 @@
   "name": "videobackground",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sarthakmehta98/weatherapp.git",
+  "homepage": "https://sarthakmehta98.github.io/weatherapp",
   "engines": {
-    "node": "10.15.3",
+    "node": "12.13.1",
     "npm": "6.11.3",
-    "yarn": "1.16.0"
+    "yarn": "1.19.2"
   },
   "dependencies": {
     "react": "^16.10.1",
